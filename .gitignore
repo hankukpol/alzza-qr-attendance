@@ -1,0 +1,25 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# 작업 파일
+*.ai
+*.code-workspace
+
+# 백업 파일
+*.bak
+*~
+
+# 로그 파일
+*.log
+
+# 환경 설정 (민감 정보 포함 가능)
+.env
+config.local.js
+
+# IDE
+.vscode/
+.idea/
+
+# Mac
+.DS_Store
